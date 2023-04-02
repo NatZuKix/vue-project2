@@ -1,0 +1,130 @@
+{
+  "Categoties": [
+    {
+      "CategoryName": "Activitys",
+      "vocabs": [
+        {
+          "id": 14,
+          "word": "readingss",
+          "meaning": "bookss",
+          "status": false
+        },
+        {
+          "id": 15,
+          "word": "swimmimg",
+          "meaning": "water",
+          "status": false
+        }
+      ],
+      "id": 1
+    },
+    {
+      "id": 2,
+      "CategoryName": "animal-1",
+      "vocabs": [
+        {
+          "id": 5,
+          "word": "dog",
+          "meaning": "หมา",
+          "status": false
+        },
+        {
+          "id": 6,
+          "word": "cat",
+          "meaning": "ร้องเหมียวๆ",
+          "status": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "CategoryName": "member",
+      "vocabs": [
+        {
+          "id": 7,
+          "word": "nutnon",
+          "meaning": "หล่อเท่",
+          "status": false
+        },
+        {
+          "id": 8,
+          "word": "seum",
+          "meaning": "นิ่งเงียบ",
+          "status": false
+        },
+        {
+          "id": 9,
+          "word": "pee",
+          "meaning": "หนุ่มตี๋",
+          "status": false
+        },
+        {
+          "id": 10,
+          "word": "pin",
+          "meaning": "ผู้หญิงคนเดียวในกลุ่ม",
+          "status": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "CategoryName": "Naruto",
+      "vocabs": [
+        {
+          "id": 11,
+          "word": "naruto",
+          "meaning": "เเยกเงาพันร่าง",
+          "status": false
+        },
+        {
+          "id": 12,
+          "word": "sakura",
+          "meaning": "ผมสีชมพู",
+          "status": false
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "CategoryName": "Teacher",
+      "vocabs": [
+        {
+          "id": 13,
+          "word": "umanporn",
+          "meaning": "INT203",
+          "status": false
+        },
+        {
+          "id": 14,
+          "word": "olarn",
+          "meaning": "INT210",
+          "status": false
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "CategoryName": "IT",
+      "vocabs": [
+        {
+          "id": 28,
+          "word": "docker",
+          "meaning": "contrainer deploy",
+          "status": false
+        },
+        {
+          "id": 29,
+          "word": "vue",
+          "meaning": "javascript framework",
+          "status": false
+        },
+        {
+          "id": 30,
+          "word": "ubuntu",
+          "meaning": "os on vm int209",
+          "status": false
+        }
+      ]
+    }
+  ]
+}
